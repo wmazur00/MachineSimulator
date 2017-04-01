@@ -13,7 +13,7 @@ namespace MachineSimulator
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        {///eee
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
